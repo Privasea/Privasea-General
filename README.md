@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Privasea"><img src="https://img.shields.io/badge/Playground-Privasea_Technology-brightgreen?logo=Parity%20Substrate" /></a>
-  <a href="https://www.privasea.ai//"><img src="https://img.shields.io/badge/made%20by-Privasea%20Tech-blue.svg?style=flat-square" /></a>
+  <a href="https://www.privasea.ai"><img src="https://img.shields.io/badge/made%20by-Privasea%20Tech-blue.svg?style=flat-square" /></a>
   <a href="https://github.com/Privasea/Privasea-General"><img src="https://img.shields.io/badge/project-Privasea_General-yellow.svg?style=flat-square" /></a>
 </p>
 
