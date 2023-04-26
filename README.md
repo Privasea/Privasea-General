@@ -16,13 +16,13 @@
 - [Development](#development)
 - [Resources](#resources)
 
-## Introduction
+# Introduction
 
 Privasea is a cutting-edge privacy computing solution that leverages decentralized technology to ensure data security and protect user privacy. It utilizes AI models to process sensitive information in a secure and confidential manner. Privasea's unique architecture is easy to scale up with computation crowdsourcing, making it an ideal solution for organizations of all sizes looking to maintain the privacy of their data.
 
-## Development
+# Development
 
-### Packages
+## Packages
 
 List of open-sourced packages currently in existence for Privasea:
 
@@ -34,8 +34,9 @@ List of open-sourced packages currently in existence for Privasea:
 | [`HESEA_Lib`](//github.com/Privasea/HESEA_Lib)                  | HESea is a cutting-edge fully homomorphic encryption (FHE) library that provides developers with a powerful, flexible, and easy-to-use tool for secure computation |
 | **Privasea Demo**                                               |                                                                                                                                                                    |
 | [`Digit Recognition Demo`](//github.com/Privasea/dinn_demo)     | Demostration for  handwritting digit recognition using FHE                                                                                                         |
+| [`Comparison Demo`](//github.com/Privasea/comparison_demo)     | Demostration for comparasion and sorting using FHE                                                                                                         |
 
-## Resources
+# Resources
 
 [🌐 | Website](https://www.privasea.ai/)
 [🌏 | Discord](https://discord.gg/uPjb5UnGHB)
