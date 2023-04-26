@@ -12,8 +12,9 @@
 
 # Table of Contents
 
-- [Background](#background)
+- [Introduction](#introduction)
 - [Development](#development)
+- [Resources](#resources)
 
 ## Introduction
 
